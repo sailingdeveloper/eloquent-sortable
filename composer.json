@@ -1,5 +1,5 @@
 {
-    "name": "sailingdeveloper/eloquent-sortable",
+    "name": "spatie/eloquent-sortable",
     "description": "Sortable behaviour for eloquent models",
     "homepage": "https://github.com/spatie/eloquent-sortable",
     "authors": [
